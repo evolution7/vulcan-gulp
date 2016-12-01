@@ -1,0 +1,14 @@
+{
+    "env": {
+        "node": true
+    },
+    "extends": "airbnb",
+    "rules": {
+        "indent": ["error", 4],
+        "padded-blocks": 0,
+        "comma-dangle": 0,
+        "no-unused-vars": ["warn", { "vars": "local", "args": "after-used" }],
+        "func-names": 0,
+        "prefer-arrow-callback": 0
+    }
+}
