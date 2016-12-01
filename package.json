@@ -1,7 +1,8 @@
 {
-  "name": "gaas",
+  "name": "vulcan-gulp",
   "version": "0.1.0",
-  "description": "",
+  "description": "Gulp as a dependency for vulcan",
+  "author": "Evolution 7",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src; exit 0",
