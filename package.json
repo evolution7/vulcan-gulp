@@ -1,6 +1,6 @@
 {
   "name": "vulcan-gulp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gulp as a dependency for vulcan",
   "author": "Evolution 7",
   "repository": {
